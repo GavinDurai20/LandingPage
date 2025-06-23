@@ -26,19 +26,8 @@ This project is a fully responsive **Landing Page** built using **HTML5** and **
 - Styling modern UI with gradients, icons, and fonts
 - Adding basic **JavaScript DOM interaction** for mobile menu toggle
 
----
-
-## 📁 Files
-
-- `index.html` — main HTML structure
-- `style.css` — all custom styles and layout
-- `README.md` — project overview and explanation
 
 ---
-
-## 🙋‍♂️ Author
-
-Made with 💻 by **Gavin Durai**
 
 [GitHub](https://github.com/GavinDurai20) • [LinkedIn](http://linkedin.com/in/gavin-durai/))
 
