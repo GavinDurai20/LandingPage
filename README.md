@@ -1,4 +1,4 @@
-# 🌐 Responsive Landing Page
+# 🌐 Responsive Landing Page - Internship Task 1
 
 This project is a fully responsive **Landing Page** built using **HTML5** and **CSS3** as part of a Web Development Internship task.
 
